@@ -1,0 +1,142 @@
+<characters>
+	<monsters>
+		<boss>
+			<level value="1">
+					<attack>
+						6
+					</attack>
+					<defense>
+						4
+					</defense>
+					<life>
+						20
+					</life>
+					<dexterity>
+						3
+					</dexterity>
+					<attackRange>
+						2
+					</attackRange>
+					<describe>
+						me,boss
+					</describe>
+			</level>
+		</boss>
+	
+		<zombie>
+			<level value="1">
+				<attack>
+					5
+				</attack>
+				<defense>
+					3
+				</defense>
+				<life>
+					15
+				</life>
+				<dexterity>
+					2
+				</dexterity>
+				<attackRange>
+					1
+				</attackRange>
+				<describe>
+					“There Is A Zombie On Your Lawn.”
+				</describe>
+			</level>
+		</zombie>
+		
+		<elf>
+			<level value="1">
+				<attack>
+					4
+				</attack>
+				<defense>
+					2
+				</defense>
+				<life>
+					12
+				</life>
+				<dexterity>
+					4
+				</dexterity>
+				<attackRange>
+					2
+				</attackRange>
+				<describe>
+					“The refreshing taste of lemon lime sprite Dayum dats gud”
+				</describe>
+			</level>
+		</elf>
+	</monsters>
+
+	<enemies>
+		<wanderingSwordman>
+			<level value="1">
+				<attack>
+					5
+				</attack>
+				<defense>
+					3
+				</defense>
+				<life>
+					12
+				</life>
+				<dexterity>
+					2
+				</dexterity>
+				<attackRange>
+					1
+				</attackRange>
+				<describe>
+					“Not all those who wander are lost.”
+				</describe>
+			</level>
+		</wanderingSwordman>
+		<magicApprentice>
+			<level value="1">
+				<attack>
+					6
+				</attack>
+				<defense>
+					2
+				</defense>
+				<life>
+					10
+				</life>
+				<dexterity>
+					3
+				</dexterity>
+				<attackRange>
+					2
+				</attackRange>
+				<describe>
+					“Cast a cold eye, on life, on death, horseman, pass by .”
+
+				</describe>
+			</level>
+		</magicApprentice>
+		<thief>
+			<level value="1">
+				<attack>
+					4
+				</attack>
+				<defense>
+					2
+				</defense>
+				<life>
+					10
+				</life>
+				<dexterity>
+					4
+				</dexterity>
+				<attackRange>
+					1
+				</attackRange>
+				<describe>
+					“You're your own man. Don't let nobody bully you into doing something you don't wanna do! ”
+				</describe>
+			</level>
+		</thief>
+	</enemies>
+</characters>
